@@ -1,1 +1,4 @@
 # Power-Quality-Classification
+
+**Now-a-days, the equipments which are being used in electrical utilities, those are more sensitive to Power Quality. These equipments contain power electronic components which are sensitive to power disturbances. Degradation in quality of power is mainly caused by disturbances such as voltage swell, voltage sag, notch, transients, and harmonic distortions and so on. Since, the electric motor draws more current when they are starting than they are running at their rated speed. So, starting of an electric motor can be the reason of voltage sag. Energization of a large capacitor bank can also cause voltage swell. In practical distribution network to improve power quality, such disturbances should be identified first before appropriate mitigation can be taken.
+This dataset mainly contains the signals which belong to one of the 5 classes(power quality condition).**
